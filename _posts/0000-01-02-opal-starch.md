@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+## "Anything worth doing is worth doing well."
 Use the left arrow to go back!
